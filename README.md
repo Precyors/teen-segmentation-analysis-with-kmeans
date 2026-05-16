@@ -1,7 +1,3 @@
-# teen-segmentation-analysis-with-kmeans
-Segmenting teenagers into behavioral groups based on demographic data and online interests.
-
----
 
 # Teen Market Segmentation using K-Means Clustering
 
