@@ -1,6 +1,5 @@
 # teen-segmentation-analysis-with-kmeans
 K-Means clustering project that segments teenagers into behavioral groups based on demographic data and online interests.
-Here’s a clean, professional **README.md** you can use for your project. It’s structured so it looks good on GitHub and also communicates your workflow clearly.
 
 ---
 
