@@ -263,21 +263,22 @@ This shows the number of teens in each segment.
 
 ---
 
-📊 Visualizations
 
-Cluster Visualization using PCA
+## 📊 Visualizations
+
+### Cluster Visualization using PCA
 
 This visualization shows how teenagers were grouped into different clusters based on shared interests and behaviors.
 
-
-
+![Cluster Visualization using PCA](outputs/Cluster%20visualization%20using%20PCA.png)
 
 ---
 
-Cluster Size Bar Chart
+### Cluster Size Bar Chart
 
 This chart displays the number of teenagers contained in each cluster.
 
+![Cluster Size Bar Chart](outputs/Cluster%20size%20bar%20chart.png)
 
 
 
