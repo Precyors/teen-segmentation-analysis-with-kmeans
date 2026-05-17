@@ -405,7 +405,7 @@ This measured social connectivity within each segment.
 
 This visualization shows how teenagers were grouped into different clusters based on shared interests and behaviors.
 
-![Cluster Visualization using PCA](outputs/Cluster Visualization using PCA.png)
+![Cluster Visualization using PCA](outputs/Cluster visualization using PCA.png)
 
 ---
 
@@ -413,7 +413,7 @@ This visualization shows how teenagers were grouped into different clusters base
 
 This chart displays the number of teenagers contained in each cluster.
 
-![Cluster Size Bar Chart](outputs/Cluster Size Bar Chart.png)
+![Cluster Size Bar Chart](outputs/Cluster size bar chart.png)
 📌 Key Insights
 
 1️⃣ Teens Can Be Grouped by Interests
