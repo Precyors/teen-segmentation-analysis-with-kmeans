@@ -1,4 +1,4 @@
-Teen Market Segmentation using K-Means Clustering in R
+👥 Teen Market Segmentation using K-Means Clustering in R
 
 📌 Project Overview
 
@@ -38,10 +38,9 @@ Customer segmentation
 ├── README.md
 ├── teen_market_segmentation.R
 ├── snsdata.csv
-├── images/
-│   ├── Cluster_Size_Bar_Chart.png
-│   ├── Cluster_Visualization_using_PCA.png
-│   
+├── outputs/
+│   ├── Cluster visualization using PCA.png
+│   └── Cluster size bar chart.png
 
 
 ---
@@ -69,6 +68,7 @@ Interpret cluster characteristics
 📦 Libraries Used
 
 library(stats)
+library(ggplot2)
 
 
 ---
@@ -78,7 +78,6 @@ library(stats)
 Dataset used:
 
 snsdata.csv
-
 
 The dataset contains:
 
@@ -111,8 +110,6 @@ fashion
 drugs
 
 sports
-
-etc.
 
 
 
@@ -266,12 +263,27 @@ This shows the number of teens in each segment.
 
 ---
 
-📌 Cluster Interpretation
+📊 Visualizations
 
-The clusters represented different teen behavior patterns.
+Cluster Visualization using PCA
+
+This visualization shows how teenagers were grouped into different clusters based on shared interests and behaviors.
+
+
 
 
 ---
+
+Cluster Size Bar Chart
+
+This chart displays the number of teenagers contained in each cluster.
+
+
+
+
+---
+
+📌 Cluster Interpretation
 
 Cluster 1 — Social & Fashion-Oriented Teens
 
@@ -399,38 +411,6 @@ This measured social connectivity within each segment.
 
 
 ---
- Visualizations
-
-## Cluster Visualization using PCA
-
-This visualization shows how teenagers were grouped into different clusters based on shared interests and behaviors.
-
-![Cluster Visualization using PCA](outputs/Cluster visualization using PCA.png)
-
----
-
-## Cluster Size Bar Chart
-
-This chart displays the number of teenagers contained in each cluster.
-
-![Cluster Size Bar Chart](outputs/Cluster size bar chart.png)
-
-
-## 📊 Visualizations
-
-### Cluster Visualization using PCA
-
-This visualization shows how teenagers were grouped into different clusters based on shared interests and behaviors.
-
-![Cluster Visualization using PCA](outputs/Cluster%20visualization%20using%20PCA.png)
-
----
-
-### Cluster Size Bar Chart
-
-This chart displays the number of teenagers contained in each cluster.
-
-![Cluster Size Bar Chart](outputs/Cluster%20size%20bar%20chart.png)
 
 📌 Key Insights
 
@@ -548,6 +528,4 @@ K-Means Clustering
 Data Scaling
 
 Statistical Analysis
-
-
 
